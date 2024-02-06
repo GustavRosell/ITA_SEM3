@@ -1,0 +1,15 @@
+/Users/rosell/Projects/SEM3/02_modul/opg4/bin/Debug/net7.0/opg4
+/Users/rosell/Projects/SEM3/02_modul/opg4/bin/Debug/net7.0/opg4.deps.json
+/Users/rosell/Projects/SEM3/02_modul/opg4/bin/Debug/net7.0/opg4.runtimeconfig.json
+/Users/rosell/Projects/SEM3/02_modul/opg4/bin/Debug/net7.0/opg4.dll
+/Users/rosell/Projects/SEM3/02_modul/opg4/bin/Debug/net7.0/opg4.pdb
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.csproj.AssemblyReference.cache
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.AssemblyInfoInputs.cache
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.AssemblyInfo.cs
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.csproj.CoreCompileInputs.cache
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.dll
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/refint/opg4.dll
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.pdb
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/opg4.genruntimeconfig.cache
+/Users/rosell/Projects/SEM3/02_modul/opg4/obj/Debug/net7.0/ref/opg4.dll

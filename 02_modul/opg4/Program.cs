@@ -31,13 +31,51 @@ class Program
             }
         };
 
+        // Sorterer personer efter alder
         BubbleSort.Sort(people, compareAges);
 
-        // Print sorted people
+        // Opgave 4.2: Udskriver personer sorteret efter alder
+        Console.WriteLine("Opgave 4.2:");
         foreach (var person in people)
         {
             Console.WriteLine($"{person.Name}, {person.Age}, {person.Phone}");
         }
+
+        // ----------------------------------------------------------------------------------------------------------------------------------------
+
+        // Opgave 4.3: Sorterer personer efter navn
+        Func<Person, Person, int> compareNames = (person1, person2) =>
+        {
+            return person1.Name.CompareTo(person2.Name);
+        };
+        // Sorterer personer efter navn
+        BubbleSort.Sort(people, compareNames);
+
+        // Opgave 4.3: Udskriver personer sorteret efter navn
+        Console.WriteLine("\nOpgave 4.3:");
+        foreach (var person in people)
+        {
+            Console.WriteLine($"{person.Name}, {person.Age}, {person.Phone}");
+        }
+
+        // ----------------------------------------------------------------------------------------------------------------------------------------
+
+        // Opgave 4.4: Sorterer personer efter telefonnummer
+        Func<Person, Person, int> comparePhones = (person1, person2) =>
+        {
+            return person1.Phone.CompareTo(person2.Phone);
+        };
+        // Sorterer personer efter telefonnummer
+        BubbleSort.Sort(people, comparePhones);
+
+        // Opgave 4.4: Udskriver personer sorteret efter telefonnummer
+        Console.WriteLine("\nOpgave 4.4:");
+        foreach (var person in people)
+        {
+            Console.WriteLine($"{person.Name}, {person.Age}, {person.Phone}");
+        }
+
+        // ----------------------------------------------------------------------------------------------------------------------------------------
     }
 }
 
