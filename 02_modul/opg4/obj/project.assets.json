@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/rosell/.nuget/packages/": {}
+    "C:\\Users\\Gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rosell/Projects/SEM3/02_modul/opg4/opg4.csproj",
+      "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg4\\opg4.csproj",
       "projectName": "opg4",
-      "projectPath": "/Users/rosell/Projects/SEM3/02_modul/opg4/opg4.csproj",
-      "packagesPath": "/Users/rosell/.nuget/packages/",
-      "outputPath": "/Users/rosell/Projects/SEM3/02_modul/opg4/obj/",
+      "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg4\\opg4.csproj",
+      "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rosell/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
