@@ -40,6 +40,31 @@ app.MapGet("/api/fruit/random", () => frugter[new Random().Next(frugter.Length)]
 
 // -------------------------------------------------------------------------------------------------------------------------
 
+// Opgave 5 - Mere frugt API
 
+/*
+Du skal nu tilføje en POST som kan sende nye frugter til frugt-API’en.
+
+POST /api/fruit: Tilføjer en ny frugt til arrayet.
+Nye frugter sendes til POST-endpointet som JSON. JSON skal have følgende format (eksempel):
+
+{
+    "name": "citron"
+}
+Når du koder POST-routen, er du nødt til at lave en type, der svarer til inputtet i routen. Typen kunne være følgende record, som placeres i bunden af Program.cs:
+
+record Fruit(string name);
+Din route kan herefter kodes således:
+*/
+
+app.MapPost("/api/fruit", (Fruit fruit) =>
+{
+    // TODO: Tilføj den nye frugt til dit array!
+    
+
+    Console.WriteLine($"Tilføjet frugt: {fruit.name}");
+
+    // TODO: Returnér herefter arrayet med alle frugter
+});
 
 app.Run();
