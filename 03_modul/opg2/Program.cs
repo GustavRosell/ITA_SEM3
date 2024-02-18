@@ -57,14 +57,4 @@ record Fruit(string name);
 Din route kan herefter kodes således:
 */
 
-app.MapPost("/api/fruit", (Fruit fruit) =>
-{
-    // TODO: Tilføj den nye frugt til dit array!
-    
-
-    Console.WriteLine($"Tilføjet frugt: {fruit.name}");
-
-    // TODO: Returnér herefter arrayet med alle frugter
-});
-
 app.Run();
