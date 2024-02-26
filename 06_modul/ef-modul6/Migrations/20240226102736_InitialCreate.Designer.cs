@@ -11,7 +11,7 @@ using Model;
 namespace ef_modul6.Migrations
 {
     [DbContext(typeof(BoardContext))]
-    [Migration("20240226095238_InitialCreate")]
+    [Migration("20240226102736_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -22,7 +22,7 @@ namespace ef_modul6.Migrations
 
             modelBuilder.Entity("Model.Board", b =>
                 {
-                    b.Property<long>("BoardId")
+                    b.Property<int>("BoardId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
@@ -33,15 +33,14 @@ namespace ef_modul6.Migrations
 
             modelBuilder.Entity("Model.Todo", b =>
                 {
-                    b.Property<long>("TodoId")
+                    b.Property<int>("TodoId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<long>("BoardId")
+                    b.Property<int?>("BoardId")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Category")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
@@ -66,7 +65,6 @@ namespace ef_modul6.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("UserId");
@@ -78,12 +76,10 @@ namespace ef_modul6.Migrations
                 {
                     b.HasOne("Model.Board", "Board")
                         .WithMany("Todos")
-                        .HasForeignKey("BoardId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("BoardId");
 
                     b.HasOne("Model.User", "User")
-                        .WithMany("Todos")
+                        .WithMany()
                         .HasForeignKey("UserId");
 
                     b.Navigation("Board");
@@ -92,11 +88,6 @@ namespace ef_modul6.Migrations
                 });
 
             modelBuilder.Entity("Model.Board", b =>
-                {
-                    b.Navigation("Todos");
-                });
-
-            modelBuilder.Entity("Model.User", b =>
                 {
                     b.Navigation("Todos");
                 });

@@ -14,7 +14,7 @@ namespace ef_modul6.Migrations
                 name: "Boards",
                 columns: table => new
                 {
-                    BoardId = table.Column<long>(type: "INTEGER", nullable: false)
+                    BoardId = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true)
                 },
                 constraints: table =>
@@ -28,7 +28,7 @@ namespace ef_modul6.Migrations
                 {
                     UserId = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Name = table.Column<string>(type: "TEXT", nullable: false)
+                    Name = table.Column<string>(type: "TEXT", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -39,12 +39,12 @@ namespace ef_modul6.Migrations
                 name: "Todos",
                 columns: table => new
                 {
-                    TodoId = table.Column<long>(type: "INTEGER", nullable: false)
+                    TodoId = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Category = table.Column<string>(type: "TEXT", nullable: false),
-                    UserId = table.Column<int>(type: "INTEGER", nullable: true),
                     Name = table.Column<string>(type: "TEXT", nullable: true),
-                    BoardId = table.Column<long>(type: "INTEGER", nullable: false)
+                    Category = table.Column<string>(type: "TEXT", nullable: true),
+                    UserId = table.Column<int>(type: "INTEGER", nullable: true),
+                    BoardId = table.Column<int>(type: "INTEGER", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -53,8 +53,7 @@ namespace ef_modul6.Migrations
                         name: "FK_Todos_Boards_BoardId",
                         column: x => x.BoardId,
                         principalTable: "Boards",
-                        principalColumn: "BoardId",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "BoardId");
                     table.ForeignKey(
                         name: "FK_Todos_Users_UserId",
                         column: x => x.UserId,

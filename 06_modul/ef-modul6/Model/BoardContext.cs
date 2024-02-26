@@ -2,8 +2,6 @@ using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-// TodoContext.cs
-
 namespace Model
 {
     public class BoardContext : DbContext
@@ -12,11 +10,11 @@ namespace Model
         public DbSet<Board> Boards { get; set; }
         public DbSet<Todo> Todos { get; set; }
 
-        public string DbPath { get; }
+        public string DbPath { get; private set; }
 
         public BoardContext()
         {
-            DbPath = "bin/Board.db";
+            DbPath = "bin/board.db";
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
