@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ejKWq3x9ntYi1w4WUH4SIsfAmGqyyce6DkaNPw7BPNYTYWbjrJ3Q77CokSwLbGg8T6bivWUAqvMlpbtpDuZjkw==",
+  "dgSpecHash": "h7ggAqwpbxUq4kmpsXo1rEenJ1nTofmZO5kf0n9PDAMxXqfyXO0L9XD/CWta9QUHytV75y7+2no4Bs17RpbfGw==",
   "success": true,
   "projectFilePath": "/Users/rosell/Projects/SEM3/06_modul/ef-modul6/ef-modul6.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,10 @@
     "/Users/rosell/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/rosell/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/rosell/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/rosell/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/Users/rosell/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{47F0B9A4-2A5D-4A97-9DE3-4F6212F2A7D2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06_modul/ef-modul6/Program.cs">
+    <Files>
+      <File FileName="06_modul/ef-modul6/Program.cs" Line="12" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEM3">
+            <Node name="06_modul" expanded="True">
+              <Node name="ef-modul6" expanded="True">
+                <Node name="Model" expanded="True" />
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01__modul.opg1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -30,17 +30,14 @@ namespace ef_modul6.Migrations
 
             modelBuilder.Entity("Model.Todo", b =>
                 {
-                    b.Property<int>("TodoId")
+                    b.Property<long>("TodoId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
                     b.Property<int?>("BoardId")
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Category")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Name")
+                    b.Property<string>("Title")
                         .HasColumnType("TEXT");
 
                     b.Property<int?>("UserId")

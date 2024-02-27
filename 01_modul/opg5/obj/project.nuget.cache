@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jFWHzTfZgf+rlIKYnGolG1udkXZs96gFIYgJsk71dcF8eBe/1AqL//+xRI5KtpmwQ2N1uc/dZ4/7U+n7EA28wA==",
+  "dgSpecHash": "qGyo0HwbpxlBLdziXHkLpKM2fXW5QnFVZdJGH4fmidy4ggyKnkU9/2B2ihr1/XNehoe7iF69X56WQF+yff6s+A==",
   "success": true,
   "projectFilePath": "/Users/rosell/Projects/SEM3/01_modul/opg5/opg5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
