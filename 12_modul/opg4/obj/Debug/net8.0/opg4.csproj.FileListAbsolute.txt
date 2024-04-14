@@ -1,0 +1,5 @@
+/Users/rosell/Projects/SEM3/12_modul/opg4/obj/Debug/net8.0/opg4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosell/Projects/SEM3/12_modul/opg4/obj/Debug/net8.0/opg4.AssemblyInfoInputs.cache
+/Users/rosell/Projects/SEM3/12_modul/opg4/obj/Debug/net8.0/opg4.AssemblyInfo.cs
+/Users/rosell/Projects/SEM3/12_modul/opg4/obj/Debug/net8.0/opg4.csproj.CoreCompileInputs.cache
+/Users/rosell/Projects/SEM3/12_modul/opg4/obj/Debug/net8.0/opg4.sourcelink.json
