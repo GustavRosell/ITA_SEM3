@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teori_opgaver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f82a83ddcb42b6a4edab953785f30864501bf63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b9bf3ae6830d03737df777a351a9321f75349b")]
 [assembly: System.Reflection.AssemblyProductAttribute("teori_opgaver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teori_opgaver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

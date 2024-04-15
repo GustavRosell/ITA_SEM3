@@ -24,7 +24,7 @@ public static class QuickSort
     // Hjælpemetode; partitionerer arrayet og returnerer partitioneringsindexen
     private static int Partition(int[] array, int low, int high)
     {
-        int pivot = array[high];  // Bruger det sidste element som pivot
+        int pivot = array[high];  // Bruger det sidste element som pivot // OVERVEJ OG LAV NY MED PIVOT PÅ FØRSTE ELEMENT
         int i = (low - 1);  // Placering af mindre element
 
         for (int j = low; j < high; j++)
