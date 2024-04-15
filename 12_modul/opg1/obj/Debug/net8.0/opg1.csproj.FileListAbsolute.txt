@@ -1,5 +1,0 @@
-/Users/rosell/Projects/SEM3/12_modul/opg1/obj/Debug/net8.0/opg1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/rosell/Projects/SEM3/12_modul/opg1/obj/Debug/net8.0/opg1.AssemblyInfoInputs.cache
-/Users/rosell/Projects/SEM3/12_modul/opg1/obj/Debug/net8.0/opg1.AssemblyInfo.cs
-/Users/rosell/Projects/SEM3/12_modul/opg1/obj/Debug/net8.0/opg1.csproj.CoreCompileInputs.cache
-/Users/rosell/Projects/SEM3/12_modul/opg1/obj/Debug/net8.0/opg1.sourcelink.json

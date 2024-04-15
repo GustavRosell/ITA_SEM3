@@ -11,20 +11,25 @@ public class BubbleSort
 
     public static void Sort(int[] array)
     {
-        // Loop through all elements in the array
-        for (int i = 0; i < array.Length; i++)
+        int n = array.Length;
+        bool swapped;
+
+        while (true)
         {
-            // Loop through all elements in the array except the last i elements
-            for (int j = 0; j < array.Length - i - 1; j++)
+            swapped = false;
+            for (int i = 0; i < n - 1; i++)
             {
-                // If the current element is greater than the next element, swap them
-                if (array[j] > array[j + 1])
+                if (array[i] > array[i + 1])
                 {
-                    Swap(array, j, j + 1);
+                    Swap(array, i, i + 1);
+                    swapped = true;
                 }
             }
+            n--;  // Reducerer antallet af elementer at tjekke
+            if (!swapped)
+            {
+                break;  // Stopper løkken, hvis der ikke blev foretaget nogen bytninger
+            }
         }
-
-        return;
     }
 }
