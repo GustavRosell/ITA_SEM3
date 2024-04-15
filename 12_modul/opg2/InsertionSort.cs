@@ -27,3 +27,14 @@ public class InsertionSort
         return;
     }
 }
+
+/*
+ * Insertion sort er en simpel sorteringsalgoritme, der fungerer ved at tage et element ad gangen og 
+ indsætte det på den rigtige plads i en sorteret del af arrayet. 
+ Algoritmen starter med at antage; 
+ 1: at det første element i arrayet er sorteret.
+    2: Derefter tager den det næste element og indsætter det på den rigtige plads i den sorteret del af arrayet.
+       3: Dette gentages, indtil hele arrayet er sorteret.
+    */ 
+
+    // Tidskompleksitet: O(n^2)

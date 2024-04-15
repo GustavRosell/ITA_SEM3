@@ -30,3 +30,16 @@ public class SelectionSort
         return;
     }
 }
+
+/*
+ * Selection sort er en simpel sorteringsalgoritme, 
+ der fungerer ved at finde det mindste element i arrayet og bytte det med det første element. 
+ Derefter finder den det næstmindste element og bytter det med det andet element, og så videre. 
+ Denne proces fortsætter, indtil hele arrayet er sorteret.
+  
+ Algoritmen har en tidskompleksitet på O(n^2), hvilket betyder, at den er langsommere end mere avancerede 
+ sorteringsalgoritmer som f.eks. quicksort og mergesort. 
+ Derfor er selection sort ikke en god løsning til store mængder data
+ */
+
+// Tidskompleksitet: O(n^2)

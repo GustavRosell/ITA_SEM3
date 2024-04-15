@@ -33,3 +33,15 @@ public class BubbleSort
         }
     }
 }
+
+/*
+Bubble sort er en simpel sorteringsalgoritme, der fungerer ved at sammenligne
+hvert element med det næste element i arrayet og bytte dem, hvis de er i forkert rækkefølge. 
+Algoritmen fortsætter med at sammenligne og bytte elementer, indtil hele arrayet er sorteret.
+
+Algoritmen har en tidskompleksitet på O(n^2), hvilket betyder, at den er langsommere end mere avancerede sorteringsalgoritmer som f.eks. 
+quicksort og mergesort. 
+Derfor er bubble sort ikke en god løsning til store mængder data.
+*/
+
+// Tidskompleksitet: O(n^2)
