@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg5", "12_modul\opg5\opg5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg6", "12_modul\opg6\opg6.csproj", "{0987EFF1-BA9F-4272-ADA1-9ABDAC7CA0F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sortering", "Modul12_Sortering\sortering.csproj", "{310F437C-5745-45D0-A30F-B4D739B13306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +226,10 @@ Global
 		{0987EFF1-BA9F-4272-ADA1-9ABDAC7CA0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0987EFF1-BA9F-4272-ADA1-9ABDAC7CA0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0987EFF1-BA9F-4272-ADA1-9ABDAC7CA0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310F437C-5745-45D0-A30F-B4D739B13306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310F437C-5745-45D0-A30F-B4D739B13306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310F437C-5745-45D0-A30F-B4D739B13306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310F437C-5745-45D0-A30F-B4D739B13306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{47F0B9A4-2A5D-4A97-9DE3-4F6212F2A7D2} = {B3CD55D8-AE32-4F23-AFA6-F4701DBC1B9D}
