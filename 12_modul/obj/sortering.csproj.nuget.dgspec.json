@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rosell/Projects/SEM3/Modul12_Sortering/sortering.csproj": {}
+    "/Users/rosell/Projects/SEM3/12_modul/sortering.csproj": {}
   },
   "projects": {
-    "/Users/rosell/Projects/SEM3/Modul12_Sortering/sortering.csproj": {
+    "/Users/rosell/Projects/SEM3/12_modul/sortering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rosell/Projects/SEM3/Modul12_Sortering/sortering.csproj",
+        "projectUniqueName": "/Users/rosell/Projects/SEM3/12_modul/sortering.csproj",
         "projectName": "sortering",
-        "projectPath": "/Users/rosell/Projects/SEM3/Modul12_Sortering/sortering.csproj",
+        "projectPath": "/Users/rosell/Projects/SEM3/12_modul/sortering.csproj",
         "packagesPath": "/Users/rosell/.nuget/packages/",
-        "outputPath": "/Users/rosell/Projects/SEM3/Modul12_Sortering/obj/",
+        "outputPath": "/Users/rosell/Projects/SEM3/12_modul/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rosell/.nuget/NuGet/NuGet.Config"

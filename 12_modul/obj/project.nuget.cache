@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIDORuWvDb9C/smj5S4JJp4/MKdSTUkkU/hGkmlqlEVmvxR+ex9OvIEPhfjc0YvDpuM7OCYcL8pEXOfLsAOL7Q==",
+  "dgSpecHash": "Lnox6i+ACyDNKcqeLGbWsb1G2nx4p86FugOEtGHBmr9cAiZOXBg91cgjJ4PAKdrP7t1XXXHhk/o6ZhLD0+xv8Q==",
   "success": true,
-  "projectFilePath": "/Users/rosell/Projects/SEM3/Modul12_Sortering/sortering.csproj",
+  "projectFilePath": "/Users/rosell/Projects/SEM3/12_modul/sortering.csproj",
   "expectedPackageFiles": [
     "/Users/rosell/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/Users/rosell/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
