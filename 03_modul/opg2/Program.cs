@@ -30,7 +30,14 @@ string[] frugter = new string[]
 app.MapGet("/api/fruit", () => frugter);
 
 // Returnerer en specifik frugt
-app.MapGet("/api/fruit/{id}", (int id) => frugter[id]);
+app.MapGet("/api/fruit/{id}", (int id) => 
+{
+    if (id < 0 || id >= frugter.Length)
+    {
+        return Results.NotFound("Frugten blev ikke fundet");
+    }
+    return Results.Ok(frugter[id]);
+});
 
 // Returnerer en random frugt
 app.MapGet("/api/fruit/random", () => frugter[new Random().Next(frugter.Length)]);
@@ -39,15 +46,20 @@ app.MapGet("/api/fruit/random", () => frugter[new Random().Next(frugter.Length)]
 
 app.MapPost("/api/fruit", (Fruit fruit) =>
 {
+    if (string.IsNullOrEmpty(fruit.name))
+    {
+        return Results.BadRequest("Frugt navn må ikke være tomt");
+    }
+
     // Tilføjer frugt til array
     frugter = frugter.Append(fruit.name).ToArray();
     Console.WriteLine($"Tilføjet frugt: {fruit.name}");
 
     // Returnerer arrayet med alle frugter
-    return frugter;
+    return Results.Ok(frugter);
 });
 
+// Definition af Fruit record
 app.Run();
 
-// Definition af Fruit record
 public record Fruit(string name);

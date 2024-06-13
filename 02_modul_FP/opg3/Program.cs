@@ -3,6 +3,7 @@ using System.Linq;
 
 class Program
 {
+    // TAGS: higher-order-functions, word-filter, word-replacer
     static void Main()
     {
         // Opgave 3.1

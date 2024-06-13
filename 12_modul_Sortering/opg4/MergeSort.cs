@@ -80,14 +80,14 @@ namespace Sortering
 }
 
 /*
-    * Mergesort er en effektiv sorteringsalgoritme, der fungerer ved at opdele arrayet i mindre dele, 
-    * sortere de mindre dele og derefter flette dem sammen for at opnå det endelige sorteret array. 
-    * Algoritmen starter med at opdele arrayet i to halvdele, sortere de to halvdele og derefter flette dem sammen. 
-    * Dette gentages, indtil hele arrayet er sorteret.
-    * 
-    * Mergesort har en tidskompleksitet på O(n log n), hvilket betyder, at den er hurtigere end sorteringsalgoritmer som f.eks. 
-    * bubblesort, selectionsort og insertionsort. 
-    * Derfor er mergesort en god løsning til store mængder data.
+    Mergesort er en effektiv sorteringsalgoritme, der fungerer ved at opdele arrayet i mindre dele, 
+    sortere de mindre dele og derefter flette dem sammen for at opnå det endelige sorteret array. 
+    Algoritmen starter med at opdele arrayet i to halvdele, sortere de to halvdele og derefter flette dem sammen. 
+    Dette gentages, indtil hele arrayet er sorteret.
+    
+    Mergesort har en tidskompleksitet på O(n log n), hvilket betyder, at den er hurtigere end sorteringsalgoritmer som f.eks. 
+    bubblesort, selectionsort og insertionsort. 
+    Derfor er mergesort en god løsning til store mængder data.
     */
 
     // Tidskompleksitet: O(n log n)

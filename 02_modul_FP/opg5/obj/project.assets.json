@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg5\\opg5.csproj",
+      "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul_FP\\opg5\\opg5.csproj",
       "projectName": "opg5",
-      "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg5\\opg5.csproj",
+      "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul_FP\\opg5\\opg5.csproj",
       "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg5\\obj\\",
+      "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul_FP\\opg5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

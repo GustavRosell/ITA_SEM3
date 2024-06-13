@@ -3,6 +3,7 @@ using Microsoft.VisualBasic;
 
 class Program
 {
+    // TAGS: higher-order-functions, bubble-sort
     static void Main()
     {
         Person[] people = new Person[]

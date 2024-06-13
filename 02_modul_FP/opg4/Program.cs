@@ -2,6 +2,7 @@
 
 class Program
 {
+    // TAGS: Højere Ordens Funktioner, Bubble Sort, Delegate, Func, Lambda
     static void Main()
     {
         Person[] people = new Person[]
