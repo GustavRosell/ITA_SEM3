@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/rosell/.nuget/packages/": {}
+    "C:\\Users\\Gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rosell/Projects/SEM3/01_modul/opg1/opg1.csproj",
+      "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\01_modul\\opg1\\opg1.csproj",
       "projectName": "opg1",
-      "projectPath": "/Users/rosell/Projects/SEM3/01_modul/opg1/opg1.csproj",
-      "packagesPath": "/Users/rosell/.nuget/packages/",
-      "outputPath": "/Users/rosell/Projects/SEM3/01_modul/opg1/obj/",
+      "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\01_modul\\opg1\\opg1.csproj",
+      "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\01_modul\\opg1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rosell/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,12 +59,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

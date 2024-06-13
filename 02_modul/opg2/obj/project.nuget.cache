@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Dgz56jTULu0OnIvHumsnJACdQPiNz7mI/JodwFc74Aexx6qKzA0fniAsgnuyXpkNJOnxjxx2E6/FE4ik0VdhYg==",
+  "dgSpecHash": "PSFp4mHI/AHoDFXDXv/TxEGt3u3HLluHCnJs0Qqn4wpF4qJLVPr+KNGbTfpUrRKGvIv8hUIboljvhuTTulkp/Q==",
   "success": true,
-  "projectFilePath": "/Users/rosell/Projects/SEM3/02_modul/opg2/opg2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg2\\opg2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

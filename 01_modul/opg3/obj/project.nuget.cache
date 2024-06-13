@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QAnDeBZGABBUVZsyyCM+8kMsNHhKrhP9SFOVd3sk2mXDVqgS9gKtHAWdns6b8v3B08Hu30tGcL1E2p3IMFCuvA==",
+  "dgSpecHash": "WRjFjGCnhGXWq/P/LzeXxCfjNHd/g1OA+QRVk1cQ2USdPZC/BnKPYuDfJGo9LIM+CpBtpfDi4gueZOv/71+lWQ==",
   "success": true,
-  "projectFilePath": "/Users/rosell/Projects/SEM3/01_modul/opg3/opg3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\01_modul\\opg3\\opg3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
