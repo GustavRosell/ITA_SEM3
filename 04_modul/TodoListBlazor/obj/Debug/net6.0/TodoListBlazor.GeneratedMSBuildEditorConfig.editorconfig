@@ -1,0 +1,51 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TodoListBlazor
+build_property.RootNamespace = TodoListBlazor
+build_property.ProjectDir = /Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/rosell/Projects/SEM3/04_modul/TodoListBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/Pages/TodoList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kb0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/Shared/PostTask.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Bvc3RUYXNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/Shared/TodoTask.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RvZG9UYXNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rosell/Projects/SEM3/04_modul/TodoListBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b50vsdrneq
