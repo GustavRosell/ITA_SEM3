@@ -23,3 +23,4 @@ C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg2\obj\Debug\ne
 C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg2\obj\Debug\net7.0\opg2.pdb
 C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg2\obj\Debug\net7.0\opg2.genruntimeconfig.cache
 C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg2\obj\Debug\net7.0\ref\opg2.dll
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg2\obj\Debug\net7.0\opg2.sourcelink.json
