@@ -1,0 +1,5 @@
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg1\obj\Debug\net7.0\opg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg1\obj\Debug\net7.0\opg1.AssemblyInfoInputs.cache
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg1\obj\Debug\net7.0\opg1.AssemblyInfo.cs
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg1\obj\Debug\net7.0\opg1.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\03_modul\opg1\obj\Debug\net7.0\opg1.sourcelink.json
