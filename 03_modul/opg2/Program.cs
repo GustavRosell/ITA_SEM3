@@ -6,6 +6,8 @@ using Microsoft.Extensions.Hosting;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
+// TAGS: web-api, get, post, record, array
+
 // Opgave 2.1: En hello-funktion der hilser verden
 app.MapGet("/api/hello", () => new { Message = "Hello World!" });
 // Test ved at skrive: http://localhost:5195/api/hello

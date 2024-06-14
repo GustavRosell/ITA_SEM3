@@ -1,6 +1,8 @@
 ﻿using System.Data;
 using Model;
 
+// TAGS: ef, entity-framework, database, sqlite, task, user
+
 using (var db = new TaskContext())
 {
     Console.WriteLine($"Database path: {db.DbPath}.");

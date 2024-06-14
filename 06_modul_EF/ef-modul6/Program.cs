@@ -3,6 +3,8 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Model;
 
+// TAGS: ef, entity-framework, database, sqlite, user, board, todo
+
 class Program
 {
     static void Main(string[] args)

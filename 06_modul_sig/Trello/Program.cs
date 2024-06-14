@@ -1,6 +1,8 @@
 ﻿using System.Data;
 using Model;
 
+// TAGS: ef, entity-framework, database, sqlite, user, board, todo
+
 using (var db = new BoardContext())
 {
     // // Opretter en ny bruger

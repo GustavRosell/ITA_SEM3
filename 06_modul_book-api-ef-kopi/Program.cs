@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Http.Json;
 using Data;
 using Service;
 
+// TAGS: ef, entity-framework, database, sqlite, web-api, cors, json, middleware, dependency-injection
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Sætter CORS så API'en kan bruges fra andre domæner

@@ -1,5 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+// TAGS: hashing, hash-set, hash-table, chaining, linear-probing 
+
 namespace Hashing.Tests
 {
     [TestClass]
