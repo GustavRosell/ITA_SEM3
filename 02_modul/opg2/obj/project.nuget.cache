@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PSFp4mHI/AHoDFXDXv/TxEGt3u3HLluHCnJs0Qqn4wpF4qJLVPr+KNGbTfpUrRKGvIv8hUIboljvhuTTulkp/Q==",
+  "dgSpecHash": "cvM7/dA+ljfEgNx+8M9fus/77HexVcy2wc+L5lllVd4pmd2ZCjSQCJcj9UwrNL/GiOMwHUQfbN+9woTsqM49Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\02_modul\\opg2\\opg2.csproj",
+  "projectFilePath": "/Users/rosell/Projects/SEM3/02_modul/opg2/opg2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\Gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/rosell/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

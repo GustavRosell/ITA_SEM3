@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\11_modul_Linked_Lists_Igen\\LinkedList\\list.csproj": {}
+    "/Users/rosell/Projects/SEM3/11_modul_Linked_Lists_Igen/LinkedList/list.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\11_modul_Linked_Lists_Igen\\LinkedList\\list.csproj": {
+    "/Users/rosell/Projects/SEM3/11_modul_Linked_Lists_Igen/LinkedList/list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\11_modul_Linked_Lists_Igen\\LinkedList\\list.csproj",
+        "projectUniqueName": "/Users/rosell/Projects/SEM3/11_modul_Linked_Lists_Igen/LinkedList/list.csproj",
         "projectName": "list",
-        "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\11_modul_Linked_Lists_Igen\\LinkedList\\list.csproj",
-        "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\11_modul_Linked_Lists_Igen\\LinkedList\\obj\\",
+        "projectPath": "/Users/rosell/Projects/SEM3/11_modul_Linked_Lists_Igen/LinkedList/list.csproj",
+        "packagesPath": "/Users/rosell/.nuget/packages/",
+        "outputPath": "/Users/rosell/Projects/SEM3/11_modul_Linked_Lists_Igen/LinkedList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/rosell/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -74,19 +74,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.29, 6.0.29]"
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.27, 6.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -94,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

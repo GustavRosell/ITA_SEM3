@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gusta\\.nuget\\packages\\": {}
+    "/Users/rosell/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\prøveEksamen\\prøveEksamen\\prøveEksamen.csproj",
+      "projectUniqueName": "/Users/rosell/Projects/SEM3/prøveEksamen/prøveEksamen/prøveEksamen.csproj",
       "projectName": "prøveEksamen",
-      "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\prøveEksamen\\prøveEksamen\\prøveEksamen.csproj",
-      "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\prøveEksamen\\prøveEksamen\\obj\\",
+      "projectPath": "/Users/rosell/Projects/SEM3/prøveEksamen/prøveEksamen/prøveEksamen.csproj",
+      "packagesPath": "/Users/rosell/.nuget/packages/",
+      "outputPath": "/Users/rosell/Projects/SEM3/prøveEksamen/prøveEksamen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/rosell/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
