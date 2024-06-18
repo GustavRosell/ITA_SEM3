@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\06_modul_EF_igen\\Trello\\Trello.csproj": {}
+    "/Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/Trello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\06_modul_EF_igen\\Trello\\Trello.csproj": {
+    "/Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/Trello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\06_modul_EF_igen\\Trello\\Trello.csproj",
+        "projectUniqueName": "/Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/Trello.csproj",
         "projectName": "Trello",
-        "projectPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\06_modul_EF_igen\\Trello\\Trello.csproj",
-        "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gusta\\OneDrive\\Dokumenter\\IT_A\\Projects\\SEM3\\06_modul_EF_igen\\Trello\\obj\\",
+        "projectPath": "/Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/Trello.csproj",
+        "packagesPath": "/Users/rosell/.nuget/packages/",
+        "outputPath": "/Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/rosell/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Trello
-build_property.ProjectDir = C:\Users\Gusta\OneDrive\Dokumenter\IT_A\Projects\SEM3\06_modul_EF_igen\Trello\
+build_property.ProjectDir = /Users/rosell/Projects/SEM3/06_modul_EF_igen/Trello/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
