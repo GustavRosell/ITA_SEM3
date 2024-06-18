@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mit-projekt.props" />
+</Project>
